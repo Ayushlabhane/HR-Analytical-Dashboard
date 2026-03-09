@@ -76,16 +76,20 @@ The dashboard allows HR teams to interactively explore employee data and identif
 
 1️. Data Collection
 - Imported employee dataset containing HR information and attrition details.
+  
 2️. Data Cleaning & Preparation
 - Checked for missing values
 - Standardized data formats
 - Structured the dataset for analysis
+
 3️. Data Transformation
 -Used Power Query to prepare the dataset
 - Created calculated columns and measures using DAX
+
 4️. Data Analysis
 - Analyzed employee distribution and attrition metrics
 - Identified patterns across departments, job roles, and demographics
+
 5️. Visualization
 - Built an interactive Power BI dashboard
 - Designed visualizations to clearly communicate workforce insights
